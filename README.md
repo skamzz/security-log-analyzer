@@ -175,9 +175,7 @@ content was not modified.
 
 ## Related project
 
-The detection patterns in this tool also inspire an investigation game I'm
-currently building, where players analyze fictional security logs to solve
-incidents. One of its cases is based on the same SSH brute force pattern
-this analyzer detects.
-
-*(Repository coming soon)*
+The detection patterns in this tool also inspire an investigation game
+I'm currently designing, where players analyze fictional security logs
+to solve incidents. One of its cases is based on the same SSH brute
+force pattern this analyzer detects.
